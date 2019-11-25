@@ -1,2 +1,2 @@
 # cypress-course
-Cypress course to learn
+Cypress course  
